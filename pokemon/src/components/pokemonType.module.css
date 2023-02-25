@@ -1,0 +1,7 @@
+.type {
+    padding: 5px 10px;
+    text-align: center;
+    width: fit-content;
+    color: white;
+    border-radius: 5px;
+}

@@ -1,0 +1,13 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 10px 20px;
+    max-height: 10vh;
+    margin-bottom: 30px;
+    width: 100%;
+}
+
+header img {
+    height: 8vh;
+}

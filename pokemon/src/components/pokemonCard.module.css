@@ -1,0 +1,7 @@
+.types {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 5px;
+    margin: 10px 0px;
+}

@@ -1,0 +1,77 @@
+.App {
+    min-height: 100vh;
+    background-color: #a020f0;
+    padding-bottom: 10vh;
+}
+
+.normal {
+    background-color: #a7a879;
+}
+
+.fight {
+    background-color: #bf3028;
+}
+
+.flying {
+    background-color: #97a5df;
+}
+
+.poison {
+    background-color: #bb5b9e;
+}
+
+.ground {
+    background-color: #ddcca1;
+}
+
+.rock {
+    background-color: #bda563;
+}
+
+.bug {
+    background-color: #a6ba40;
+}
+
+.ghost {
+    background-color: #6562b1;
+}
+
+.steel {
+    background-color: #afadc2;
+}
+
+.fire {
+    background-color: #fd4932;
+}
+
+.water {
+    background-color: #1f92f7;
+}
+
+.grass {
+    background-color: #72d96b;
+}
+
+.electric {
+    background-color: #ffc541;
+}
+
+.psychic {
+    background-color: #f66b9b;
+}
+
+.ice {
+    background-color: #45cde3;
+}
+
+.dragon {
+    background-color: #8669ed;
+}
+
+.dark {
+    background-color: #705a4b;
+}
+
+.fairy {
+    background-color: #fcb7f3;
+}

@@ -1,0 +1,48 @@
+{
+    "title": "Interactive story path",
+    "description": "This is a tool to produce an interactive learning path through material used in EhB. This will be done through video's, questions and feedback.",
+    "goals": {
+        "description": "These are the goals for this course",
+        "list": ["Goal 1: be awesome", "Goal 2: be amazing", "Goal 3: learn something"]
+    },
+    "theory": {
+        "description": "These are the theory subjects for this course",
+        "list": ["Theory 1: be awesome", "Theory 2: be amazing", "Theory 3: learn something"]
+    },
+    "exercises": [
+        {
+            "title": "Scenario 1",
+            "description": "This is an explanation of the scenario",
+            "startVideoId": "GYLndmnCDCQ",
+            "titleChoiceA": "Focus on strength",
+            "videoIdChoiceA": "lHlD8G5KQ4k",
+            "titleChoiceB": "Focus on empathy",
+            "videoIdChoiceB": "Ei9KfoEOwFg",
+            "feedbackA": {
+                "correct": true,
+                "explanation": "this is the reason why this clip is the best option"
+            },
+            "feedbackB": {
+                "correct": false,
+                "explanation": "this is the reason why this clip is the worst option"
+            }
+        },
+        {
+            "title": "Scenario 2",
+            "description": "This is an explanation of the scenario",
+            "startVideoId": "GYLndmnCDCQ",
+            "titleChoiceA": "Focus on strength",
+            "videoIdChoiceA": "lHlD8G5KQ4k",
+            "titleChoiceB": "Focus on empathy",
+            "videoIdChoiceB": "Ei9KfoEOwFg",
+            "feedbackA": {
+                "correct": true,
+                "explanation": "this is the reason why this clip is the best option"
+            },
+            "feedbackB": {
+                "correct": false,
+                "explanation": "this is the reason why this clip is the worst option"
+            }
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+[
+    {
+        "set_id": "75955",
+        "name": "Hogwarts Express",
+        "year_released": "2018",
+        "parts": "801",
+        "complete": true,
+        "imageUrl": "https://cdn.rebrickable.com/media/thumbs/sets/75955-1/13583.jpg/1000x800p.jpg?1666795215.8403287"
+    },
+    {
+        "set_id": "10256",
+        "name": "Taj Mahal",
+        "year_released": "2017",
+        "parts": "5923",
+        "complete": false,
+        "imageUrl": "https://cdn.rebrickable.com/media/thumbs/sets/10256-1/10681.jpg/1000x800p.jpg?1663601949.1700363"
+    },
+    {
+        "set_id": "21309",
+        "name": "NASA Apollo Saturn V",
+        "year_released": "2017",
+        "parts": "1969",
+        "complete": true,
+        "imageUrl": "https://cdn.rebrickable.com/media/thumbs/sets/21309-1/9948.jpg/1000x800p.jpg?1657635999.2811387"
+    }
+]
